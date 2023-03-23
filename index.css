@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  width: 180px;
+  border-radius: 5px;
+}
+
+#increment-btn {
+  background-color: rgb(240, 85, 85);
+}
+
+#save-btn {
+  margin-top: 10px;
+  background-color: green;
+}
+
+#buy-el {
+  background-color: grey;
+}
+
+#error {
+  color: red;
+}
